@@ -1,0 +1,78 @@
+.mycontainer
+{
+  width: 90%;
+  margin: auto;
+}
+
+#myheader
+{
+  text-align: center;
+  background-color: black;
+  color: white;
+  width: 100%;
+  margin: auto;
+}
+
+
+
+.mybox1
+{
+
+    text-align: center;
+    color: black;
+    border: 5px black solid;
+        border-left: 5px black solid;
+              border-right: 5px blacksolid;
+    padding: 10px;
+    margin: auto;
+    width: 89%;
+
+}
+.center_img
+{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border: 4px black solid;
+  padding: 100px 150px;
+  width: 30%;
+
+}
+
+h1
+{
+    text-align: center;
+    background-color:#999999;
+    color: black;
+    border: 5px black solid;
+    padding: 10px;
+    margin: auto;
+    width: 90%;
+}
+
+.branches
+{
+  background-color: white;
+  color: black;
+  margin: auto;
+  border: 10px black;
+  padding: 10px;
+  border-radiusmargin: 15px;
+  width: 90%;
+}
+
+.block1
+{
+   float: left;
+   background-color: white;
+   border: 2px  solid #111111;
+   width: 300px;
+   padding: 3rem 2rem;
+   box-sizing: border-box;
+   overflow: visible;
+}
+
+.clr
+{
+   clear: both;
+}
