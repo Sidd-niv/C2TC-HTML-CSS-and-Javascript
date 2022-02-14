@@ -1,0 +1,95 @@
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  line-height: 1.6;
+  width: fit-content;
+  block-size: fit-content;
+}
+
+h1
+{
+  margin: 0rem 0rem 0rem 0rem ;
+  padding: 0;
+}
+
+.my_header{
+    text-align: center;
+    background: #001f3f;
+    color: white;
+    padding: 2rem 2rem ;
+    width: 100px 200px;
+    margin: auto;
+}
+
+#my_header2
+{
+      text-align: center;
+      font-style: oblique;
+      margin: auto;
+      padding: 10px;
+}
+
+
+
+.container 
+{
+  width: 500px;
+  padding: 3rem 2rem ;
+  box-shadow: rgba(0, 0, 0, 0.4) 0px 2px 4px, rgba(1, 17, 102, 0.562) 0px 7px 13px -3px, rgba(0, 0, 0, 0.2) 0px -3px 0px inset;
+  margin: 100px 500px;
+  overflow: auto;
+  box-sizing: border-box;
+  border-radius: 3%;
+}
+
+#my_form{
+    padding: 2rem;
+    background: #bdc3c5;
+    border-radius: 3%;
+}
+
+#my_form label{
+    display: block;
+}
+
+#my_form input[type='text'] {
+  width: 100%;
+  padding: 8px;
+  margin-bottom: 10px;
+  border-radius: 5px;
+  border: 1px solid #ccc;
+  border-color: #001f3f;
+}
+#my_form input[type='tel'] {
+  width: 100%;
+  padding: 8px;
+  margin-bottom: 10px;
+  border-radius: 5px;
+  border: 1px solid #ccc;
+  border-color: #001f3f;
+}
+#my_form input[type='email'] {
+  width: 100%;
+  padding: 8px;
+  margin-bottom: 10px;
+  border-radius: 5px;
+  border: 1px solid #ccc;
+  border-color: #001f3f;
+}
+
+.btn {
+  align-content: center;
+  display: block;
+  width: 100%;
+  padding: 10px 15px;
+  border: 1px;
+  background: #333;
+  color: #fff;
+  border-radius: 5px;
+  margin-left: 9px;
+  
+}
+
+.btn:hover {
+  background: #444;
+}
